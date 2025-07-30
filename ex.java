@@ -18,16 +18,11 @@ System.out.println("Enter your gpa:");
 double gpa1 = sc.nextDouble();
 System.out.println("Enter your gpa:");
 double gpa2 = sc.nextDouble();
-sc.nextLine();
-System.out.println("Enter your age:");
-String age1 = sc.nextLine();
-System.out.println("Enter your age:");
-String age2 = sc.nextLine();
  if (gpa1>gpa2){
-	System.out.println("you've scored more marks:"+ Name1 + Dept1 + gpa1 + age1);
+	System.out.println("you've scored more marks:"+ Name1 + Dept1 + gpa1 );
   }
  else{
-	System.out.println("you've scored less marks:"+ Name2 + Dept2 + gpa2 + age2); 
+	System.out.println("you've scored less marks:"+ Name2 + Dept2 + gpa2 ); 
  
  }
 }
