@@ -1,0 +1,43 @@
+Day-1 Topics
+
+1. Intro to Java Programming
+
+--- About Java
+--- Features of Java
+--- Simple Java Program
+--- Java Development Kit(JDK)
+--- Java RunTime Environment(JRE)
+--- Java Virtual Machine(JVM)
+--- Java Just in-time compiler(JIT)
+--- Java Memory Management
+
+2. Scope and Variables, Keywords, Data Types, Operators, Java Methods
+
+--- Non-access modifiers: static, final, abstract, synchronized, transient, volatile, strictfp, native
+--- Access modifiers: public, protected, default, private
+--- Java Unicode System
+--- Java Methods(Pass-by-Value)
+--- Static Methods
+--- Methods Overloading
+
+Day-1 Assignment Questions:
+
+1. Write a code to illustrate the various scope of variables(static, local, instance, block, final variables)?
+
+2. Write a program in which, declare all data types like integer, double, float, long integer, character, byte data, and print them.
+
+3. Write a program to find the maximum of two numbers using the ternary operator.
+
+4. Write a program to check whether the given two numbers are equal or not w/o using comparison operator?
+
+5. Write a program that illustrate the execution order of static block and initializer block?
+
+6. Write a program that illustrates the Explicit type casting for all data types?
+
+7. Write a program to check if a number is a power of 2 using bitwise operator?
+
+8. Write a program to find the first set bit of a number?
+
+9. Write a class Employee with attributes empId, name, department and salary and define a parameterized constructor Employee(int empId, String name, String      department, double salary) and assign these variables to instance variables accordingly and display them? Learn variable shadowing.
+
+10. Write a program to check whether the object is an instance of a particular class?
